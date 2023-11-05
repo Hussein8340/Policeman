@@ -63,7 +63,7 @@ class _LoginScreenState extends State<LoginScreen> {
                   decoration: InputDecoration(
                     labelText: "Email",
                     border: const OutlineInputBorder(
-                      borderSide: BorderSide(color: Colors.grey),
+                      borderSide: BorderSide(color: Colors.blue),
                     ),
                     suffixIcon: IconButton(
                       icon: const Icon(Icons.close),
